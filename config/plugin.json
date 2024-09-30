@@ -6,6 +6,9 @@
 				"compatible": "1.0",
 				"requires": {"Q": "0.9"}
 			}
+		},
+		"classAliases": {
+			"Audio_getId3": "getId3"
 		}
     }
 }
