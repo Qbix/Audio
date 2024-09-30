@@ -1,0 +1,11 @@
+{
+	"Q": {
+		"pluginInfo": {
+			"Audio": {
+				"version": "1.0",
+				"compatible": "1.0",
+				"requires": {"Q": "0.9"}
+			}
+		}
+    }
+}
